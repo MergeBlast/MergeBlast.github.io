@@ -1,0 +1,308 @@
+{"frames": {
+
+"General/bullet-basic.png":
+{
+	"frame": {"x":216,"y":424,"w":13,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":29},
+	"sourceSize": {"w":13,"h":29}
+},
+"General/bullet-special.png":
+{
+	"frame": {"x":231,"y":424,"w":13,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":29},
+	"sourceSize": {"w":13,"h":29}
+},
+"General/mainscreen-balloon.png":
+{
+	"frame": {"x":1,"y":1,"w":98,"h":217},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":217},
+	"sourceSize": {"w":98,"h":217}
+},
+"LaserSpritesheet/Laser-red/laser-red-1.png":
+{
+	"frame": {"x":191,"y":424,"w":23,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":23,"h":31},
+	"sourceSize": {"w":24,"h":31}
+},
+"LaserSpritesheet/Laser-red/laser-red-2.png":
+{
+	"frame": {"x":1,"y":437,"w":24,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":31},
+	"sourceSize": {"w":24,"h":31}
+},
+"LaserSpritesheet/Laser-red/laser-red-3.png":
+{
+	"frame": {"x":139,"y":423,"w":24,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":31},
+	"sourceSize": {"w":24,"h":31}
+},
+"LaserSpritesheet/Laser-red/laser-red-4.png":
+{
+	"frame": {"x":27,"y":437,"w":24,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":31},
+	"sourceSize": {"w":24,"h":31}
+},
+"LaserSpritesheet/Laser-red/laser-red-5.png":
+{
+	"frame": {"x":165,"y":423,"w":24,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":31},
+	"sourceSize": {"w":24,"h":31}
+},
+"LaserSpritesheet/Laser-red/laser-red-6.png":
+{
+	"frame": {"x":53,"y":437,"w":24,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":31},
+	"sourceSize": {"w":24,"h":31}
+},
+"Particles/particle-frost-1.png":
+{
+	"frame": {"x":93,"y":423,"w":44,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+},
+"Particles/particle-frost-round-1.png":
+{
+	"frame": {"x":468,"y":359,"w":11,"h":11},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":11,"h":11},
+	"sourceSize": {"w":11,"h":11}
+},
+"Particles/particle-frost-round-2.png":
+{
+	"frame": {"x":420,"y":425,"w":7,"h":7},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":7},
+	"sourceSize": {"w":7,"h":7}
+},
+"Turrets/turret-aim-line.png":
+{
+	"frame": {"x":475,"y":1,"w":3,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":20,"w":3,"h":23},
+	"sourceSize": {"w":3,"h":43}
+},
+"Turrets/turret-base-laser-basic.png":
+{
+	"frame": {"x":101,"y":1,"w":215,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":215,"h":91},
+	"sourceSize": {"w":215,"h":91}
+},
+"Turrets/turret-bullet-base-1.png":
+{
+	"frame": {"x":189,"y":164,"w":106,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":58},
+	"sourceSize": {"w":106,"h":58}
+},
+"Turrets/turret-bullet-base-2.png":
+{
+	"frame": {"x":297,"y":164,"w":106,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":58},
+	"sourceSize": {"w":106,"h":58}
+},
+"Turrets/turret-bullet-base-3.png":
+{
+	"frame": {"x":186,"y":224,"w":106,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":58},
+	"sourceSize": {"w":106,"h":58}
+},
+"Turrets/turret-bullet-base-4.png":
+{
+	"frame": {"x":294,"y":224,"w":106,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":58},
+	"sourceSize": {"w":106,"h":58}
+},
+"Turrets/turret-bullet-base-5.png":
+{
+	"frame": {"x":93,"y":354,"w":106,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":67},
+	"sourceSize": {"w":106,"h":67}
+},
+"Turrets/turret-bullet-base-6.png":
+{
+	"frame": {"x":297,"y":94,"w":106,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":68},
+	"sourceSize": {"w":106,"h":68}
+},
+"Turrets/turret-bullet-base-7.png":
+{
+	"frame": {"x":180,"y":284,"w":106,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":68},
+	"sourceSize": {"w":106,"h":68}
+},
+"Turrets/turret-bullet-base-8.png":
+{
+	"frame": {"x":288,"y":284,"w":106,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":68},
+	"sourceSize": {"w":106,"h":68}
+},
+"Turrets/turret-bullet-base-9.png":
+{
+	"frame": {"x":201,"y":354,"w":105,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":68},
+	"sourceSize": {"w":105,"h":68}
+},
+"Turrets/turret-bullet-base-10.png":
+{
+	"frame": {"x":189,"y":94,"w":106,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":68},
+	"sourceSize": {"w":106,"h":68}
+},
+"Turrets/turret-bullet-head-1.png":
+{
+	"frame": {"x":420,"y":359,"w":46,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":64},
+	"sourceSize": {"w":46,"h":64}
+},
+"Turrets/turret-bullet-head-2.png":
+{
+	"frame": {"x":365,"y":359,"w":53,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":76},
+	"sourceSize": {"w":53,"h":76}
+},
+"Turrets/turret-bullet-head-3.png":
+{
+	"frame": {"x":308,"y":354,"w":55,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":74},
+	"sourceSize": {"w":55,"h":74}
+},
+"Turrets/turret-bullet-head-4.png":
+{
+	"frame": {"x":405,"y":188,"w":67,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":78},
+	"sourceSize": {"w":67,"h":78}
+},
+"Turrets/turret-bullet-head-5.png":
+{
+	"frame": {"x":101,"y":203,"w":83,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":72},
+	"sourceSize": {"w":83,"h":72}
+},
+"Turrets/turret-bullet-head-6.png":
+{
+	"frame": {"x":95,"y":277,"w":83,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":75},
+	"sourceSize": {"w":83,"h":75}
+},
+"Turrets/turret-bullet-head-7.png":
+{
+	"frame": {"x":402,"y":268,"w":78,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":89},
+	"sourceSize": {"w":78,"h":89}
+},
+"Turrets/turret-bullet-head-8.png":
+{
+	"frame": {"x":405,"y":106,"w":67,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":80},
+	"sourceSize": {"w":67,"h":80}
+},
+"Turrets/turret-bullet-head-9.png":
+{
+	"frame": {"x":318,"y":1,"w":85,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":91},
+	"sourceSize": {"w":85,"h":91}
+},
+"Turrets/turret-bullet-head-10.png":
+{
+	"frame": {"x":1,"y":352,"w":90,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+},
+"Turrets/turret-gun-laser-2.png":
+{
+	"frame": {"x":1,"y":220,"w":92,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":130},
+	"sourceSize": {"w":92,"h":130}
+},
+"Turrets/turret-gun-laser.png":
+{
+	"frame": {"x":101,"y":94,"w":86,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":107},
+	"sourceSize": {"w":86,"h":107}
+},
+"Turrets/turret-laser-head-1.png":
+{
+	"frame": {"x":405,"y":1,"w":68,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":103},
+	"sourceSize": {"w":68,"h":103}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas-gameassets-0.png",
+	"format": "RGBA8888",
+	"size": {"w":481,"h":481},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8f37e48ee9497cc783fa02ebdabe2120:f4240d49f6acb84863f8b652acee8fad:7b5267973df6c5715f508fcd38acd9f7$"
+}
+}

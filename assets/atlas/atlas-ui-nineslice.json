@@ -1,0 +1,132 @@
+{"frames": {
+
+"Bar Progress in game Blue.png":
+{
+	"frame": {"x":116,"y":1,"w":398,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":398,"h":70},
+	"sourceSize": {"w":398,"h":70}
+},
+"Bar Progress in game Green.png":
+{
+	"frame": {"x":516,"y":1,"w":398,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":398,"h":70},
+	"sourceSize": {"w":398,"h":70}
+},
+"Bar Progress in game Purple.png":
+{
+	"frame": {"x":1,"y":73,"w":398,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":398,"h":70},
+	"sourceSize": {"w":398,"h":70}
+},
+"Bar Progress in game yellow.png":
+{
+	"frame": {"x":401,"y":73,"w":398,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":398,"h":70},
+	"sourceSize": {"w":398,"h":70}
+},
+"Outline Bar Progress.png":
+{
+	"frame": {"x":556,"y":165,"w":412,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":412,"h":90},
+	"sourceSize": {"w":412,"h":90}
+},
+"Progress Bar In Game 1.png":
+{
+	"frame": {"x":885,"y":90,"w":127,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":73},
+	"sourceSize": {"w":127,"h":73}
+},
+"Progress Bar In Game 2.png":
+{
+	"frame": {"x":1,"y":1,"w":113,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":113,"h":59},
+	"sourceSize": {"w":113,"h":59}
+},
+"Rectangle Progress Bar Blue.png":
+{
+	"frame": {"x":885,"y":90,"w":127,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":73},
+	"sourceSize": {"w":127,"h":73}
+},
+"Rectangle Progress Bar green.png":
+{
+	"frame": {"x":130,"y":145,"w":127,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":73},
+	"sourceSize": {"w":127,"h":73}
+},
+"Rectangle Progress Bar purple.png":
+{
+	"frame": {"x":259,"y":145,"w":127,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":73},
+	"sourceSize": {"w":127,"h":73}
+},
+"Rectangle Progress Bar Yellow.png":
+{
+	"frame": {"x":1,"y":145,"w":127,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":73},
+	"sourceSize": {"w":127,"h":73}
+},
+"Square Blue.png":
+{
+	"frame": {"x":916,"y":1,"w":82,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":87},
+	"sourceSize": {"w":82,"h":87}
+},
+"Square Green.png":
+{
+	"frame": {"x":801,"y":73,"w":82,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":87},
+	"sourceSize": {"w":82,"h":87}
+},
+"Square Purple.png":
+{
+	"frame": {"x":388,"y":145,"w":82,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":87},
+	"sourceSize": {"w":82,"h":87}
+},
+"Square Yellow.png":
+{
+	"frame": {"x":472,"y":145,"w":82,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":87},
+	"sourceSize": {"w":82,"h":87}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas-ui-nineslice.png",
+	"format": "RGBA8888",
+	"size": {"w":1013,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3b30f9dbf194f5f01b081d78926d64ab:827b7945caa5d0b75918eff80f0fc5f4:943631522c4c4f5580e5dc64224eab09$"
+}
+}

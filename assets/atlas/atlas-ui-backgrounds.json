@@ -1,0 +1,20 @@
+{"frames": {
+
+"ability-background.png":
+{
+	"frame": {"x":1,"y":1,"w":748,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":748,"h":250},
+	"sourceSize": {"w":748,"h":250}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas-ui-backgrounds.png",
+	"format": "RGBA8888",
+	"size": {"w":750,"h":252},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:af42ba3f947fce67394e48f2dc286b26:eb0935d4da18356966f5eb9f5e4af47c:7ef1beba5c2747aa8ec5b54fb4c5c9d3$"
+}
+}

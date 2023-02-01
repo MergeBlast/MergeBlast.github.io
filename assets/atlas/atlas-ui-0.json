@@ -1,0 +1,372 @@
+{"frames": {
+
+"bumpo_0.png":
+{
+	"frame": {"x":1,"y":1,"w":1020,"h":338},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1020,"h":338},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"General/ability-button.png":
+{
+	"frame": {"x":1,"y":1212,"w":152,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":158},
+	"sourceSize": {"w":152,"h":158}
+},
+"General/ability-icon-double-coin.png":
+{
+	"frame": {"x":1091,"y":1239,"w":99,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":89},
+	"sourceSize": {"w":99,"h":89}
+},
+"General/ability-icon-double-damage.png":
+{
+	"frame": {"x":1310,"y":1314,"w":65,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":57},
+	"sourceSize": {"w":65,"h":57}
+},
+"General/ability-icon-freeze.png":
+{
+	"frame": {"x":1290,"y":397,"w":83,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":84},
+	"sourceSize": {"w":83,"h":84}
+},
+"General/ability-icon-shadow.png":
+{
+	"frame": {"x":510,"y":1098,"w":105,"h":11},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":11},
+	"sourceSize": {"w":105,"h":11}
+},
+"General/ability-icon-shield.png":
+{
+	"frame": {"x":1290,"y":307,"w":83,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":88},
+	"sourceSize": {"w":83,"h":88}
+},
+"General/ability-icon-turret-upgrade.png":
+{
+	"frame": {"x":505,"y":1226,"w":80,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":100},
+	"sourceSize": {"w":80,"h":100}
+},
+"General/guidedUIPoint.png":
+{
+	"frame": {"x":1290,"y":888,"w":62,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":62},
+	"sourceSize": {"w":62,"h":62}
+},
+"General/hand.png":
+{
+	"frame": {"x":1,"y":928,"w":215,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":215,"h":282},
+	"sourceSize": {"w":215,"h":282}
+},
+"General/pixel-white.png":
+{
+	"frame": {"x":155,"y":1212,"w":1,"h":1},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":1},
+	"sourceSize": {"w":1,"h":1}
+},
+"General/ui-ad-button-small.png":
+{
+	"frame": {"x":820,"y":1249,"w":126,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":99},
+	"sourceSize": {"w":126,"h":99}
+},
+"General/ui-ad-button.png":
+{
+	"frame": {"x":628,"y":978,"w":346,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":346,"h":99},
+	"sourceSize": {"w":346,"h":99}
+},
+"General/ui-buybutton-disabled.png":
+{
+	"frame": {"x":218,"y":1125,"w":348,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":348,"h":99},
+	"sourceSize": {"w":348,"h":99}
+},
+"General/ui-buybutton-small-disabled.png":
+{
+	"frame": {"x":628,"y":1079,"w":224,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":224,"h":99},
+	"sourceSize": {"w":224,"h":99}
+},
+"General/ui-buybutton-small.png":
+{
+	"frame": {"x":972,"y":1138,"w":224,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":224,"h":99},
+	"sourceSize": {"w":224,"h":99}
+},
+"General/ui-buybutton.png":
+{
+	"frame": {"x":155,"y":1226,"w":348,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":348,"h":99},
+	"sourceSize": {"w":348,"h":99}
+},
+"General/ui-cardchest.png":
+{
+	"frame": {"x":510,"y":928,"w":116,"h":168},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":116,"h":168},
+	"sourceSize": {"w":116,"h":168}
+},
+"General/ui-chesticon-closed.png":
+{
+	"frame": {"x":976,"y":978,"w":285,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":285,"h":158},
+	"sourceSize": {"w":285,"h":158}
+},
+"General/ui-chesticon-open.png":
+{
+	"frame": {"x":218,"y":928,"w":290,"h":195},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":290,"h":195},
+	"sourceSize": {"w":290,"h":195}
+},
+"General/ui-coin.png":
+{
+	"frame": {"x":1091,"y":1330,"w":49,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":47},
+	"sourceSize": {"w":49,"h":47}
+},
+"General/ui-extraslot-icon.png":
+{
+	"frame": {"x":1290,"y":483,"w":77,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":85},
+	"sourceSize": {"w":77,"h":85}
+},
+"General/ui-gem.png":
+{
+	"frame": {"x":628,"y":928,"w":61,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":48},
+	"sourceSize": {"w":61,"h":48}
+},
+"General/ui-general-button-small.png":
+{
+	"frame": {"x":1198,"y":1148,"w":126,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":99},
+	"sourceSize": {"w":126,"h":99}
+},
+"General/ui-heart-half.png":
+{
+	"frame": {"x":210,"y":1327,"w":30,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":50},
+	"sourceSize": {"w":30,"h":50}
+},
+"General/ui-heart-whole.png":
+{
+	"frame": {"x":155,"y":1327,"w":53,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":50},
+	"sourceSize": {"w":53,"h":50}
+},
+"General/ui-lasercounter.png":
+{
+	"frame": {"x":1023,"y":307,"w":94,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":23},
+	"sourceSize": {"w":94,"h":23}
+},
+"General/ui-merge-icon.png":
+{
+	"frame": {"x":1192,"y":1249,"w":116,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":116,"h":89},
+	"sourceSize": {"w":116,"h":89}
+},
+"General/ui-popup.png":
+{
+	"frame": {"x":728,"y":341,"w":560,"h":635},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":560,"h":635},
+	"sourceSize": {"w":560,"h":635}
+},
+"General/ui-shine.png":
+{
+	"frame": {"x":1023,"y":1,"w":305,"h":304},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":305,"h":304},
+	"sourceSize": {"w":305,"h":305}
+},
+"General/ui-special-token.png":
+{
+	"frame": {"x":1290,"y":735,"w":69,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":75},
+	"sourceSize": {"w":69,"h":75}
+},
+"Mergescreen/ui-bulleticon.png":
+{
+	"frame": {"x":691,"y":928,"w":25,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":25},
+	"sourceSize": {"w":25,"h":25}
+},
+"Mergescreen/ui-card-locked-gem.png":
+{
+	"frame": {"x":1263,"y":978,"w":114,"h":168},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":168},
+	"sourceSize": {"w":114,"h":168}
+},
+"Mergescreen/ui-card-locked.png":
+{
+	"frame": {"x":587,"y":1180,"w":115,"h":168},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":168},
+	"sourceSize": {"w":115,"h":168}
+},
+"Mergescreen/ui-cardselected.png":
+{
+	"frame": {"x":854,"y":1079,"w":116,"h":168},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":116,"h":168},
+	"sourceSize": {"w":116,"h":168}
+},
+"Mergescreen/ui-closebutton.png":
+{
+	"frame": {"x":972,"y":1239,"w":117,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":90},
+	"sourceSize": {"w":117,"h":90}
+},
+"Mergescreen/ui-lasericon.png":
+{
+	"frame": {"x":242,"y":1327,"w":25,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":22},
+	"sourceSize": {"w":25,"h":22}
+},
+"Mergescreen/ui-levelicon.png":
+{
+	"frame": {"x":568,"y":1111,"w":52,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":67},
+	"sourceSize": {"w":52,"h":67}
+},
+"Mergescreen/ui-merge-card.png":
+{
+	"frame": {"x":704,"y":1180,"w":114,"h":167},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":167},
+	"sourceSize": {"w":114,"h":167}
+},
+"Mergescreen/ui-plusicon.png":
+{
+	"frame": {"x":1310,"y":1249,"w":59,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":63},
+	"sourceSize": {"w":59,"h":63}
+},
+"Mergescreen/ui-rocketicon.png":
+{
+	"frame": {"x":820,"y":1180,"w":25,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":25},
+	"sourceSize": {"w":25,"h":25}
+},
+"Mergescreen/ui-turretframe-1.png":
+{
+	"frame": {"x":1290,"y":812,"w":64,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":74},
+	"sourceSize": {"w":64,"h":74}
+},
+"Mergescreen/ui-turrethead-2.png":
+{
+	"frame": {"x":1290,"y":653,"w":73,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":80},
+	"sourceSize": {"w":73,"h":80}
+},
+"Mergescreen/ui-turrethead-3.png":
+{
+	"frame": {"x":1290,"y":570,"w":73,"h":81},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":81},
+	"sourceSize": {"w":73,"h":81}
+},
+"Mergescreen/ui-upgradepanel.png":
+{
+	"frame": {"x":1,"y":341,"w":725,"h":585},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":725,"h":585},
+	"sourceSize": {"w":725,"h":585}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas-ui-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1378,"h":1378},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cb75c07565f1e8d5423bdcade815b49d:c6112a83f79db6e86d148b388210dc73:ace058f3c515a8068b01efa4394b64bf$"
+}
+}

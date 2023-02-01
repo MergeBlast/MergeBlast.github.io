@@ -1,0 +1,92 @@
+{"frames": {
+
+"Mainscreen/castle-shield.png":
+{
+	"frame": {"x":752,"y":1181,"w":720,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":87},
+	"sourceSize": {"w":720,"h":87}
+},
+"Mainscreen/mainscreen-castle-back.png":
+{
+	"frame": {"x":1413,"y":1,"w":128,"h":508},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":508},
+	"sourceSize": {"w":128,"h":508}
+},
+"Mainscreen/mainscreen-castle-front.png":
+{
+	"frame": {"x":752,"y":858,"w":794,"h":321},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":794,"h":321},
+	"sourceSize": {"w":794,"h":321}
+},
+"Mainscreen/mainscreen-castle-mid.png":
+{
+	"frame": {"x":1,"y":1,"w":1158,"h":416},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1158,"h":416},
+	"sourceSize": {"w":1158,"h":416}
+},
+"Mainscreen/mainscreen-cloud1.png":
+{
+	"frame": {"x":1161,"y":269,"w":108,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":37},
+	"sourceSize": {"w":108,"h":37}
+},
+"Mainscreen/mainscreen-cloud2.png":
+{
+	"frame": {"x":1161,"y":210,"w":163,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":163,"h":57},
+	"sourceSize": {"w":163,"h":57}
+},
+"Mainscreen/mainscreen-cloud3.png":
+{
+	"frame": {"x":1161,"y":1,"w":250,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":103},
+	"sourceSize": {"w":250,"h":103}
+},
+"Mainscreen/mainscreen-cloud4.png":
+{
+	"frame": {"x":1161,"y":106,"w":250,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":102},
+	"sourceSize": {"w":250,"h":102}
+},
+"Mainscreen/mainscreen-hills-2.png":
+{
+	"frame": {"x":1,"y":858,"w":749,"h":450},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":749,"h":450},
+	"sourceSize": {"w":749,"h":450}
+},
+"Mainscreen/mainscreen-hills.png":
+{
+	"frame": {"x":1,"y":419,"w":913,"h":437},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":913,"h":437},
+	"sourceSize": {"w":913,"h":437}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas-environment-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1547,"h":1547},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1c889f3529ab5e1e06899366b464196f:c295d1e6beb35a09d92320350b4d86d4:94aff823a9fdfe264bf2bd5314c79474$"
+}
+}

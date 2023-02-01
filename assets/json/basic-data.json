@@ -1,0 +1,32 @@
+{
+  "firstLogin": "2020-05-22T17:29:49",
+  "lastLogin": "2020-05-22T17:29:49",
+  "settings": {
+    "musicOn": true,
+    "soundOn": true
+  },
+  "inventory": {
+    "coins": 0,
+    "gems": 0,
+    "specialTokens": 0,
+    "abilities": [0, 0, 0] 
+  },
+  "stage": [
+    {
+      "turrets":[[1, 0, 5], [1,1, 0], [1,0, 10]],
+      "upgrades": [0, 0, 0, 0],
+      "mergeData": [
+        [1,-1, 20],[1,0],[1,0],[1,0],[1,-1, 20],
+        [1,-1, 45],[1,-1, 30],[1,-1, 25],[1,-1, 30],[1,-1, 45]
+      ],
+      "buyAmount": 0
+    }
+  ],
+  "playerStats": {
+    "currentLevel": 0,
+    "experience": 0,
+    "totalPlayTime": 0,
+    "totalLogins": 0
+  },
+  "highscore": "[]"
+}

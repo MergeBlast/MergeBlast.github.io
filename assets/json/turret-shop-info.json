@@ -1,0 +1,17 @@
+{
+  "basic": { 
+    "canBuy": 1,
+    "cost": 0,
+    "costIncrease": 100
+  },
+  "laser": {
+    "canBuy": 1,
+    "cost": 1000,
+    "costIncrease": 2000
+  },
+  "electricity": {
+    "canBuy": 0,
+    "cost": 5000,
+    "costIncrease": 3000
+  }
+}
